@@ -1,0 +1,7 @@
+import './git-module'
+import './controller/git-controller'
+import './git-component'
+import './http/git-httpService'
+import './service/git-webService'
+import './http/proxy'
+import './factory/git-transformer'
